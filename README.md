@@ -59,3 +59,11 @@ Solo Project Submission
 ## License
 
 MIT License
+
+## Live Demo
+
+CyberShield AI Live Application:
+[## Live Demo
+
+CyberShield AI Live Application:
+[https://vision-ai-protect.lovable.app]
